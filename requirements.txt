@@ -1,0 +1,4 @@
+psutil
+win32com
+ctypes
+colorama
