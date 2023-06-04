@@ -62,4 +62,4 @@ if not kernel32.CreateRemoteThread(h_process, None, 0, h_loadlib, arg_address, 0
     input(f"{colorama.Fore.LIGHTRED_EX}[!] Failed to inject DLL, exit...")
     sys.exit(0)
 
-print("[+] Remote Thread with ID 0x%08x created." %(thread_id.value))
+input(f"{colorama.Fore.LIGHTGREEN_EX}[+] Remote Thread with ID 0x%08x created." %(thread_id.value))
