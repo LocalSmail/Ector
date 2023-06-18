@@ -5,5 +5,5 @@ I recommend using BInjector: [Download](https://www.unknowncheats.me/forum/pc-so
 
 # Join the community
 
-[Discord](https://discord.gg/Rj7u8Qmvsa)
+[Discord](https://discord.gg/P7MyhP8prK)
 
